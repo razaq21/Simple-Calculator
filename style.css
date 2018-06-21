@@ -1,0 +1,24 @@
+
+
+* { margin-top: 22px; padding: 0px; }
+ body {
+   background-color: black;
+   font-size: 110%; 
+   background-size: 50%;
+   background-width: 90px;
+   background-height:30px:
+}
+
+
+            input {
+				color: black;
+				text-align: center;
+				font-weight: bold; 
+				border-left: #080510;
+				border-right: #080510;
+				border-style: groove;
+				font-size: 110%;
+			}
+
+
+
